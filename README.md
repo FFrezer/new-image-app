@@ -1,1 +1,1 @@
-# new-image-app
+# my-image-app
